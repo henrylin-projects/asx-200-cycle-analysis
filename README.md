@@ -4,11 +4,11 @@ A Python-based market cycle analysis project that studies **ASX 200 recovery cyc
 
 This project is designed as a **portfolio piece for equity research, market analysis, and data analytics**, showing practical use of Python for financial time-series analysis, data transformation, and visualization.
 
-#Skills Demonstrated
-Python scripting
-pandas data wrangling
-time-series analysis
-CSV export automation
+#Skills Demonstrated:
+Python scripting/
+pandas data wrangling/
+time-series analysis/
+CSV export automation/
 data visualization
 
 financial market analytics
